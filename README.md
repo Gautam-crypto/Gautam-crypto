@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFmdG5jeGNqazR2aHQyeTJ5dm1sNXd1dWJzcnp4eGJpZ3B6eXR2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/gautam_ikyk/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -20,6 +16,10 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFmdG5jeGNqazR2aHQyeTJ5dm1sNXd1dWJzcnp4eGJpZ3B6eXR2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
 
 ###
 
@@ -52,5 +52,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/gautam_crypto/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/gautam_crypto/gautam_crypto/output/snake.svg" alt="Snake animation" />
 
 ###
