@@ -54,7 +54,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/gautam_crypto/gautam_crypto/output/snake.svg" alt="Snake animation" />
-
-###
